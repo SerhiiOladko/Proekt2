@@ -1,0 +1,17 @@
+.header {
+    background-color: rgba(10, 10, 10, 0.7);
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .nav-link {
+    margin: 0 10px;
+    color: rgb(230, 217, 217);
+    text-decoration: none;
+  }
+  
+  .active-link {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
